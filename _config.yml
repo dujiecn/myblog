@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: Walljay的个人博客
+subtitle: 记录工作点点滴滴
+description: 备忘技术知识
+keywords: java spring 区块链 mysql
+author: walljay
+language: zh_CN
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
