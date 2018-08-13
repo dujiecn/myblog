@@ -8,7 +8,7 @@ subtitle: 记录工作点点滴滴
 description: 备忘技术知识
 keywords: java spring 区块链 mysql
 author: walljay
-language: zh_CN
+language: zh
 timezone: 
 
 # URL
@@ -74,8 +74,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+# avatar: https://avatars3.githubusercontent.com/u/10645118
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+deploy: 
+  type: git
+  repo: https://github.com/dujiecn/dujiecn.github.io.git
+  branch: master 
